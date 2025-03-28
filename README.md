@@ -8,12 +8,30 @@ As a computer science student specializing in cybersecurity, with expertise in N
   - **[JPMorgan Chase & Co. Cybersecurity Job Simulation](https://drive.google.com/file/d/1x8bKmVVT3Os324RtbeYOTWBkw2PBDZwW/view?usp=drive_link)**
 * ### Udemy
     - **[Bash Scripting Basic](https://drive.google.com/file/d/1t6Zdxh9OdgbjGCHsF2gXQtB4OrCfsZ-r/view?usp=sharing)**
+    - **[Applied Cryptography with Python](https://www.udemy.com/certificate/UC-42768cd3-53b4-4b4e-9800-f68d66b796ca/)**
 
 ## 👨‍💻 Cyber Security Projects
 * [Packet Analysis Using Wireshark](https://github.com/RaoAhmed/Packet-Analysis-Using-Wireshark)
 * [Design And Develop A System To Tighten Access To Sensitive Information](https://github.com/RaoAhmed/Design-and-Develop-a-System-to-Tighten-Access-to-Sensitive-Information)
 * [Spam Or Ham Email Classifier](https://github.com/RaoAhmed/Spam-Or-Ham-Email-Classifier-Using-Logistic-Regression)
 * [Analyze A Large Dataset Of Fraud In Financial Payment Services](https://github.com/RaoAhmed/Analyze-a-Large-Dataset-of-Fraud-in-Financial-Payment-Services)
+
+## Skills
+* Linux
+* Bash Scripting
+* Cryptography
+* CyberSecurity Fundamentals
+* Networking
+* Pentesting Fundamentals
+* troubleshooting
+
+
+## Tools & Technologies
+*  wireshark
+*  Burp Suite
+*  Metasploit Framework
+*  Nmap
+*  Hydra
 
 ## Popular Blogs
 * [Say Hello To Wireshark: A beginner-friendly blog about the packet analyzer](https://medium.com/@raoopf/say-hello-to-wireshark-7b6ebb9107c3)
